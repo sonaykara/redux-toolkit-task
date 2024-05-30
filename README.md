@@ -4,11 +4,13 @@ Bu proje, React.js ve Redux Toolkit kullanarak geliştirilmiş bir task yönetim
 <br><br>
 
 ## İçindekiler  
-[Özellikler](#özellikler)  
 [Başlarken](#baslarken)  
+[Özellikler](#özellikler)  
+[Kullanılan Teknolojiler](#teknolojiler)  
+
 
 <br><br>
-
+<a name="teknolojiler"></a>
 ## Kullanılan Teknolojiler
 
 - [React.js](https://reactjs.org/)
